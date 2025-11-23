@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: #FAFAFA;
+  --muted: #333333;
+}
+
+body {
+  @apply bg-[var(--bg)] text-[var(--muted)] antialiased;
+}
+
+.card { @apply bg-white rounded-lg shadow-md p-6; }
