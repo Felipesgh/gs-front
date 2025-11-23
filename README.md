@@ -155,8 +155,8 @@ Para dúvidas ou melhorias:\
 
 ## 🔗 Links
 
-Repositório GitHub:
+Repositório GitHub: https://github.com/Felipesgh/gs-front
 
 Vídeo YouTube: https://youtu.be/NAfWk14x24k
 
-Deploy Versel:
+Deploy Versel: https://gs-front-six.vercel.app/
